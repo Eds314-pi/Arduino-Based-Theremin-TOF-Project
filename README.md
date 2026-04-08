@@ -47,4 +47,4 @@ Include more information on LCD display
 Create cleaner pitch
 
 
-![Wiring Diagram](Wire_Diagram.png)
+![Wiring Diagram](Wire%20Diagram.png)
