@@ -50,5 +50,6 @@ better use experience.
 -Create cleaner pitch  
 
 
+## Wire Diagram  
 
 ![Wiring Diagram](Wire%20Diagram.png)
