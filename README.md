@@ -47,4 +47,4 @@ Include more information on LCD display
 Create cleaner pitch
 
 
-![Wiring Diagram](main/theremin_wiring_diagram.png)
+![Wiring Diagram](main/Picture1.png)
