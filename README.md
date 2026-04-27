@@ -53,3 +53,8 @@ better use experience.
 ## Wire Diagram  
 
 ![Wiring Diagram](Wire%20Diagram.png)
+
+
+## Demo
+Demo link on google drive:
+https://drive.google.com/file/d/1i1kHtjAp-2tOoesS2Xir9pcgmQS2cLFI/view?usp=drive_link
