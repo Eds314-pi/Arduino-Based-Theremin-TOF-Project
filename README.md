@@ -1,7 +1,7 @@
 ## Arduino Theremin using ToF Sensors  
 
 This project operates as an instrument making use of distance sensors to control volume and pitch in real time. It also includes 10 second recording capabilities and 
-playback functionality. Developed as part of a freshman engineering course (EPICS) at UTSA with a partner. I was responsible for coding and implementing real time audio and recording/playback while my teammate was in charge of the physical shell and master volume knob. 
+playback functionality. 
 
 
  ## How it works  
